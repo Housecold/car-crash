@@ -82,5 +82,5 @@ Please make sure to update tests as appropriate.
 
 ## Contributors
 
--  Daniel Magalhães - @Housecold
--  Sérgio Conchinha - @SConchinha
+-  Daniel Magalhães - [@Housecold](https://github.com/Housecold)
+-  Sérgio Conchinha - [@SConchinha](https://github.com/SConchinha)
